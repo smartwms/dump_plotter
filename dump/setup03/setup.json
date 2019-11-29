@@ -1,0 +1,31 @@
+{
+  "moving-tag": "dbd93de08ed7",
+  "reference-tag": "eba2d9ab0416",
+  "dumps": ["data-01.txt", "data-02.txt", "data-03.txt", "data-04.txt", "data-05.txt"],
+  "sensors": {
+    "5ccf7fdb1ed3": {
+      "x": 0,
+      "y": 0
+    },
+    "5ccf7fdb3643": {
+      "x": 2.4,
+      "y": 4.5
+    },
+    "5ccf7fdb42ac": {
+      "x": -1.2,
+      "y": 3.9
+    }
+  },
+  "tags": {
+    "eba2d9ab0416": {
+      "data-01.txt": {
+        "x": 150,
+        "y": 210
+      }
+    },
+    "dbd93de08ed7": {
+      "x": 30,
+      "y": 240
+    }
+  }
+}
